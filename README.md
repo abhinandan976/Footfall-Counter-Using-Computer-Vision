@@ -1,7 +1,7 @@
 # AI Footfall Counter using Computer Vision
 
 **Author:** Abhinandan  
-**Date:** October 2024  
+**Date:** October 2025 
 **Assignment:** Computer Vision-based Footfall Counter  
 
 ---
